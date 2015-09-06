@@ -1,6 +1,6 @@
 ###Project P6 - Feed Reader Testing
 
-##Running the Test Suites:
+####Running the Test Suites:
 Navigate to http://vivmyc.github.io/P6
 
 The bottom part of the screen will display the results from the automated tests suites using
@@ -14,7 +14,7 @@ Using test-driven development, additional test cases for a new search feature ha
 developed to test this new feature once it is added, as well as ensure that existing features
 still function correctly.
 
-#Test Suites Included:
+####Test Suites Included:
 
 - RSS Feeds
 - The Menu

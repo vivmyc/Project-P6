@@ -1,8 +1,9 @@
 ###Project P6 - Feed Reader Testing
 
-####Running the Test Suites:
+####Running the Test Suites
 Navigate to http://vivmyc.github.io/P6
 
+####Description
 The bottom part of the screen will display the results from the automated tests suites using
 the Jasmine Testing Framework.
 

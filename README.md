@@ -1,7 +1,6 @@
 ###Project P6 - Feed Reader Testing
 
-####Running the Test Suites
-Navigate to http://vivmyc.github.io/P6
+[Click Here](http://vivmyc.github.io/P6) to run all test suites.
 
 ####Description
 The bottom part of the screen will display the results from the automated tests suites using
